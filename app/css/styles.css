@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: gray; }
+
+.parent {
+  width: 400px;
+  height: 200px;
+  background-color: black;
+  position: absolute;
+  top: 200px;
+  left: 400px;
+  text-align: center; }
+  .parent h2 {
+    color: white;
+    font-size: 40px; }
+  .parent h3 {
+    color: white;
+    font-size: 30px; }
